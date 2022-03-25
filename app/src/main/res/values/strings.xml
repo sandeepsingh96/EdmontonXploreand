@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EdmontonXplore</string>
+    <string name="dummy_text">dummy text</string>
+    <string name="textview">TextView</string>
+    <string name="images">Images</string>
+    <string name="dummy_text_abc">dummy text abc</string>
+    <string name="dummy_text_bca">dummy text bca</string>
+    <string name="location">Location</string>
+</resources>
